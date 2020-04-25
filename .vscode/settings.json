@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "/Users/elliottgreaves/.local/share/virtualenvs/django-hello-world-EzZiNaU9/bin/python",
+  "python.linting.enabled": true,
+  "python.linting.pylintArgs": ["--disable=C0111","--load-plugins", "pylint_django"],
+}
